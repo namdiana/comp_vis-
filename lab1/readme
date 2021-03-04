@@ -1,2 +1,3 @@
-Conclusion: 
-K is the number of classes according which classification is applyed, so k is number of colours in resulted image. So we can make a conclusion that the number of saved colors will grows with number of classes correspondingly. 
+<b>Conclusion: </b>
+K is the number of classes according to which classification is applied, so k is the number of colors in the resulted image. 
+So we can make a conclusion that the number of saved colors will grow with the number of classes correspondingly.
